@@ -1,0 +1,64 @@
+厦门太清宫网站 - 完整文件清单
+生成时间: 2024-12-19
+
+=== HTML页面文件 ===
+✅ index.html              - 首页
+✅ about.html              - 道观介绍
+✅ contact.html            - 联系我们
+✅ reservation.html        - 法事预约
+✅ user-agreement.html     - 用户服务协议
+✅ complaint.html          - 投诉举报
+
+=== 样式文件 ===
+✅ css/style.css           - 主样式文件
+
+=== JavaScript文件 ===
+✅ js/main.js              - 功能脚本
+
+=== 图片资源 ===
+✅ images/banner.jpg       - 横幅图片
+✅ images/promo1.jpg       - 展示图片1
+✅ images/promo2.jpg       - 展示图片2
+✅ images/promo3.jpg       - 展示图片3
+✅ images/promo4.jpg       - 展示图片4
+✅ images/promo5.jpg       - 展示图片5
+✅ images/promo6.jpg       - 展示图片6
+✅ images/promo7.jpg       - 展示图片7
+✅ images/promo8.jpg       - 展示图片8
+✅ images/promo10.jpg      - 展示图片10
+✅ images/promo12.jpg      - 展示图片12
+✅ images/qrcode.jpg       - 付款二维码
+✅ images/wechat_kefu.jpg  - 微信客服二维码
+
+=== 文档文件 ===
+✅ README.md               - 项目说明
+✅ README_新增功能.md      - 新增功能说明
+✅ 部署检查清单.md        - 部署检查清单
+
+=== 部署文件 ===
+✅ deploy.sh               - 部署脚本
+✅ sitemap.xml             - 网站地图
+✅ robots.txt              - 搜索引擎指导
+
+=== 文件统计 ===
+- HTML文件: 6个
+- CSS文件: 1个
+- JS文件: 1个
+- 图片文件: 13个
+- 文档文件: 3个
+- 部署文件: 3个
+- 总计: 27个文件
+
+=== 部署注意事项 ===
+1. 确保所有文件都包含在部署包中
+2. 检查文件权限设置
+3. 验证所有链接正常工作
+4. 测试响应式设计
+5. 确认表单功能正常
+
+=== 技术支持 ===
+电话: 0592-2092459
+邮箱: XMTaiQingGong@163.com
+
+=== 许可证信息 ===
+互联网宗教信息许可证: 闽(2022)0000072 
